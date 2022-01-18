@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootDockerMavensApplication {
 	
 	public static void main(String[] args) {
-		System.out.print("pop");
+		System.out.print("pop ");
 		SpringApplication.run(SpringBootDockerMavensApplication.class, args);
 	}
 
